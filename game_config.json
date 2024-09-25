@@ -1,0 +1,283 @@
+{
+  "combos": [
+    {
+      "code": "CBO O QUAN_81K",
+      "number_of_plays": 1
+    },
+    {
+      "code": "CBO DO GANG_81K",
+      "number_of_plays": 1
+    },
+    {
+      "code": "CBO BANH DUA_161K",
+      "number_of_plays": 2
+    },
+    {
+      "code": "HD_CBO NHAY DAY_81K",
+      "number_of_plays": 1
+    },
+    {
+      "code": "HD_CBO THA DIEU_161K",
+      "number_of_plays": 2
+    }
+  ],
+  "commoms": {
+    "total": 0,
+    "group_1": 0,
+    "group_2": 0,
+    "time_block": "0",
+    "max_scan_bill": "0",
+    "percent_per_week": 17.5
+  },
+  "rewards": [
+    {
+      "area": "HCM",
+      "total": 1,
+      "ended_at": "2024-07-07T16:59:59.999Z",
+      "reward_id": 2,
+      "started_at": "2024-07-06T17:00:00.000Z"
+    },
+    {
+      "area": "DNG",
+      "total": 1,
+      "ended_at": "2024-07-09T16:59:59.999Z",
+      "reward_id": 1,
+      "started_at": "2024-07-08T17:00:00.000Z"
+    },
+    {
+      "area": "HN",
+      "total": 1,
+      "ended_at": "2024-07-12T16:59:59.999Z",
+      "reward_id": 9,
+      "started_at": "2024-07-11T17:00:00.000Z"
+    },
+    {
+      "area": "SEP",
+      "total": 1,
+      "ended_at": "2024-07-14T16:59:59.999Z",
+      "reward_id": 1,
+      "started_at": "2024-07-13T17:00:00.000Z"
+    },
+    {
+      "area": "SEP",
+      "total": 1,
+      "ended_at": "2024-07-15T16:59:59.999Z",
+      "reward_id": 2,
+      "started_at": "2024-07-14T17:00:00.000Z"
+    },
+    {
+      "area": "NP",
+      "total": 1,
+      "ended_at": "2024-07-16T16:59:59.999Z",
+      "reward_id": 9,
+      "started_at": "2024-07-15T17:00:00.000Z"
+    },
+    {
+      "area": "HCM",
+      "total": 1,
+      "ended_at": "2024-07-19T16:59:59.999Z",
+      "reward_id": 1,
+      "started_at": "2024-07-18T17:00:00.000Z"
+    },
+    {
+      "area": "HN",
+      "total": 1,
+      "ended_at": "2024-07-20T16:59:59.999Z",
+      "reward_id": 2,
+      "started_at": "2024-07-19T17:00:00.000Z"
+    },
+    {
+      "area": "SWP",
+      "total": 1,
+      "ended_at": "2024-07-21T16:59:59.999Z",
+      "reward_id": 9,
+      "started_at": "2024-07-20T17:00:00.000Z"
+    },
+    {
+      "area": "HCM",
+      "total": 1,
+      "ended_at": "2024-07-25T16:59:59.999Z",
+      "reward_id": 9,
+      "started_at": "2024-07-24T17:00:00.000Z"
+    },
+    {
+      "area": "NP",
+      "total": 1,
+      "ended_at": "2024-07-27T16:59:59.999Z",
+      "reward_id": 2,
+      "started_at": "2024-07-26T17:00:00.000Z"
+    },
+    {
+      "area": "HN",
+      "total": 1,
+      "ended_at": "2024-07-29T16:59:59.999Z",
+      "reward_id": 1,
+      "started_at": "2024-07-28T17:00:00.000Z"
+    },
+    {
+      "area": "HCM",
+      "total": 1,
+      "ended_at": "2024-08-04T16:59:59.999Z",
+      "reward_id": 2,
+      "started_at": "2024-08-03T17:00:00.000Z"
+    },
+    {
+      "area": "HCM",
+      "total": 1,
+      "ended_at": "2024-08-07T16:59:59.999Z",
+      "reward_id": 1,
+      "started_at": "2024-08-06T17:00:00.000Z"
+    },
+    {
+      "area": "SEP",
+      "total": 1,
+      "ended_at": "2024-08-09T16:59:59.999Z",
+      "reward_id": 9,
+      "started_at": "2024-08-08T17:00:00.000Z"
+    }
+  ],
+  "tickets": [
+    {
+      "total": 39,
+      "ended_at": "2024-07-07T16:59:59.999Z",
+      "started_at": "2024-07-04T17:00:00.000Z"
+    },
+    {
+      "total": 26,
+      "ended_at": "2024-07-11T16:59:59.999Z",
+      "started_at": "2024-07-07T17:00:00.000Z"
+    },
+    {
+      "total": 39,
+      "ended_at": "2024-07-14T16:59:59.999Z",
+      "started_at": "2024-07-11T17:00:00.000Z"
+    },
+    {
+      "total": 36,
+      "ended_at": "2024-07-18T16:59:59.999Z",
+      "started_at": "2024-07-14T17:00:00.000Z"
+    },
+    {
+      "total": 54,
+      "ended_at": "2024-07-21T16:59:59.999Z",
+      "started_at": "2024-07-18T17:00:00.000Z"
+    },
+    {
+      "total": 17,
+      "ended_at": "2024-07-25T16:59:59.999Z",
+      "started_at": "2024-07-21T17:00:00.000Z"
+    },
+    {
+      "total": 25,
+      "ended_at": "2024-07-28T16:59:59.999Z",
+      "started_at": "2024-07-25T17:00:00.000Z"
+    },
+    {
+      "total": 16,
+      "ended_at": "2024-08-01T16:59:59.999Z",
+      "started_at": "2024-07-28T17:00:00.000Z"
+    },
+    {
+      "total": 23,
+      "ended_at": "2024-08-04T16:59:59.999Z",
+      "started_at": "2024-08-01T17:00:00.000Z"
+    },
+    {
+      "total": 10,
+      "ended_at": "2024-08-08T16:59:59.999Z",
+      "started_at": "2024-08-04T17:00:00.000Z"
+    },
+    {
+      "total": 14,
+      "ended_at": "2024-08-11T16:59:59.999Z",
+      "started_at": "2024-08-08T17:00:00.000Z"
+    }
+  ],
+  "vouchers": [
+    {
+      "total": 8925,
+      "ended_at": "2024-07-07T16:59:59.999Z",
+      "started_at": "2024-07-04T17:00:00.000Z"
+    },
+    {
+      "total": 5950,
+      "ended_at": "2024-07-11T16:59:59.999Z",
+      "started_at": "2024-07-07T17:00:00.000Z"
+    },
+    {
+      "total": 8925,
+      "ended_at": "2024-07-14T16:59:59.999Z",
+      "started_at": "2024-07-11T17:00:00.000Z"
+    },
+    {
+      "total": 8160,
+      "ended_at": "2024-07-18T16:59:59.999Z",
+      "started_at": "2024-07-14T17:00:00.000Z"
+    },
+    {
+      "total": 12240,
+      "ended_at": "2024-07-21T16:59:59.999Z",
+      "started_at": "2024-07-18T17:00:00.000Z"
+    },
+    {
+      "total": 3808,
+      "ended_at": "2024-07-25T16:59:59.999Z",
+      "started_at": "2024-07-21T17:00:00.000Z"
+    },
+    {
+      "total": 5712,
+      "ended_at": "2024-07-28T16:59:59.999Z",
+      "started_at": "2024-07-25T17:00:00.000Z"
+    },
+    {
+      "total": 3808,
+      "ended_at": "2024-08-01T16:59:59.999Z",
+      "started_at": "2024-07-28T17:00:00.000Z"
+    },
+    {
+      "total": 5712,
+      "ended_at": "2024-08-04T16:59:59.999Z",
+      "started_at": "2024-08-01T17:00:00.000Z"
+    },
+    {
+      "total": 3536,
+      "ended_at": "2024-08-08T16:59:59.999Z",
+      "started_at": "2024-08-04T17:00:00.000Z"
+    },
+    {
+      "total": 3264,
+      "ended_at": "2024-08-11T16:59:59.999Z",
+      "started_at": "2024-08-08T17:00:00.000Z"
+    }
+  ],
+  "locations": [
+    {
+      "code": "DNG",
+      "rate": 5
+    },
+    {
+      "code": "HCM",
+      "rate": 35
+    },
+    {
+      "code": "HP",
+      "rate": 2
+    },
+    {
+      "code": "NP",
+      "rate": 13
+    },
+    {
+      "code": "HN",
+      "rate": 23
+    },
+    {
+      "code": "SWP",
+      "rate": 4
+    },
+    {
+      "code": "SEP",
+      "rate": 18
+    }
+  ]
+}
