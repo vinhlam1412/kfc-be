@@ -23,7 +23,7 @@ export class GameController {
 
   @Get()
   get(@Req() req: IRequest) {
-    return this.gameService.get(4670, 1, [1,2,3,4]);
+    return this.gameService.get(req.user.id, req.event.id, req.event?.game_id);
   }
 
   @Patch('/:game_code/play')

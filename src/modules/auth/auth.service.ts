@@ -57,7 +57,7 @@ export class AuthService {
       throw new HttpException(
         {
           status: 500,
-          message: 'Phone number is invalid',
+          message: `Phone number is invalid, ${phone}`,
         },
         500,
       );
